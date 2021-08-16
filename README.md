@@ -6,7 +6,7 @@ Since I began studying computer science I've become fascinated with the concept 
 [![Badges](https://img.shields.io/badge/Mail-333333?style=flat&logo=microsoft-outlook)](mailto:allpasoto@icloud.com)
 [![Badges](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://br.linkedin.com/in/allpasoto)
 [![Badges](https://img.shields.io/badge/Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/asoto.exe)
-[![Badges](https://img.shields.io/badge/Discord-333333?style=flat&logo=discord)](https://www.instagram.com/asoto.exe)
+![Badges](https://img.shields.io/badge/Discord-333333?style=flat&logo=discord)
 
 # 🎯 IT SKILLS
 
