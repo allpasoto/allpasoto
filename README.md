@@ -51,10 +51,10 @@ Since I began studying computer science I've become fascinated with the concept 
 ![Badges](https://img.shields.io/badge/Microsoft_Azure-333333?style=flat&logo=microsoft-azure)
 
 🖥 SERVERS <br>
+![Badges](https://img.shields.io/badge/Kali_Linux-333333?style=flat&logo=kali-linux)
 ![Badges](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
 ![Badges](https://img.shields.io/badge/Red%20Hat-333333?style=flat&logo=redhat)
 ![Badges](https://img.shields.io/badge/Windows_Server-333333?style=flat&logo=windows)
-![Badges](https://img.shields.io/badge/Kali_Linux-333333?style=flat&logo=kali-linux)
 
 🌐 IOT<br>
 ![Sketchup](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
