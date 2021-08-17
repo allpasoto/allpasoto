@@ -76,9 +76,9 @@ Since I began studying computer science I've become fascinated with the concept 
 
 
 # 🔧 WORKS
-![GitHub Repo stars](https://img.shields.io/github/stars/allpasoto/README-template?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/allpasoto/README-template?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/allpasoto/README-template?style=flat)
+![GitHub Repo stars](https://img.shields.io/github/stars/allpasoto/allpasoto?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/allpasoto/allpasoto?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/allpasoto/allpasoto?style=flat)
 
 💎 ADM - Senior Infrastructure Analyst.<br>
 💎 CASARSHOP - Solutions for weddings.<br>
