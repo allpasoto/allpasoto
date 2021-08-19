@@ -61,9 +61,9 @@ Since I began studying computer science I've become fascinated with the concept 
 ![Sketchup](https://img.shields.io/badge/-Amazon_Alexa-333333?style=flat&logo=amazon-alexa)
 ![Sketchup](https://img.shields.io/badge/-Google_Home-333333?style=flat&logo=google)
 
-🌐 ETHICAL HACKING<br>
+👾 ETHICAL HACKING<br>
 ![Badges](https://img.shields.io/badge/Kali_Linux-333333?style=flat&logo=kali-linux)
-![Badges](https://img.shields.io/badge/burpsuite-333333?style=flat&logo=burpsuite)
+![Badges](https://img.shields.io/badge/burpsuite-333333?style=flat&logo=https://cdn4.iconfinder.com/data/icons/macaron-1/48/BurpSuite-512.png)
 ![Badges](https://img.shields.io/badge/medusa-333333?style=flat&logo=medusa)
 ![Badges](https://img.shields.io/badge/sqlmap-333333?style=flat&logo=sqlmap)
 ![Badges](https://img.shields.io/badge/nmap-333333?style=flat&logo=nmap)
