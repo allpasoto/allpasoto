@@ -23,6 +23,7 @@ Since I began studying computer science I've become fascinated with the concept 
 🎨 DESIGN <br>
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
+![Adobe XD](https://img.shields.io/badge/-Corel%20Draw-333333?style=flat&logo=Corel-Draw)
 ![Sketchup](https://img.shields.io/badge/-Sketchup-333333?style=flat&logo=sketchup)
 
 👾 ETHICAL HACKING<br>
