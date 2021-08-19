@@ -51,7 +51,6 @@ Since I began studying computer science I've become fascinated with the concept 
 ![Badges](https://img.shields.io/badge/Microsoft_Azure-333333?style=flat&logo=microsoft-azure)
 
 🖥 SERVERS <br>
-![Badges](https://img.shields.io/badge/Kali_Linux-333333?style=flat&logo=kali-linux)
 ![Badges](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
 ![Badges](https://img.shields.io/badge/Red%20Hat-333333?style=flat&logo=redhat)
 ![Badges](https://img.shields.io/badge/Windows_Server-333333?style=flat&logo=windows)
@@ -61,6 +60,14 @@ Since I began studying computer science I've become fascinated with the concept 
 ![Sketchup](https://img.shields.io/badge/-Raspberry_Pi-333333?style=flat&logo=raspberry-pi)
 ![Sketchup](https://img.shields.io/badge/-Amazon_Alexa-333333?style=flat&logo=amazon-alexa)
 ![Sketchup](https://img.shields.io/badge/-Google_Home-333333?style=flat&logo=google)
+
+🌐 ETHICAL HACKING<br>
+![Badges](https://img.shields.io/badge/Kali_Linux-333333?style=flat&logo=kali-linux)
+![Badges](https://img.shields.io/badge/burpsuite-333333?style=flat&logo=burpsuite)
+![Badges](https://img.shields.io/badge/medusa-333333?style=flat&logo=medusa)
+![Badges](https://img.shields.io/badge/sqlmap-333333?style=flat&logo=sqlmap)
+![Badges](https://img.shields.io/badge/nmap-333333?style=flat&logo=nmap)
+![Badges](https://img.shields.io/badge/zenmap-333333?style=flat&logo=zenmap)
 
 🎨 DESIGN <br>
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)
