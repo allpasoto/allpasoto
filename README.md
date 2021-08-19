@@ -10,21 +10,41 @@ Since I began studying computer science I've become fascinated with the concept 
 
 # 🎯 IT SKILLS
 
-🛠 IDES <br>
-![Eclipse](https://img.shields.io/badge/-Dev_C++-333333?style=flat&logo=cplusplus)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
-![XCode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode)
-
-🎮 GAME ENGINES <br>
-![Badges](https://img.shields.io/badge/Unity-333333?style=flat&logo=unity)
+☁️ CLOUDS <br>
+![Badges](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws)
+![Badges](https://img.shields.io/badge/Microsoft_Azure-333333?style=flat&logo=microsoft-azure)
 
 🗄 DATABASES <br>
 ![Badges](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
 ![Badges](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 ![Badges](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 ![Badges](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite)
+
+🎨 DESIGN <br>
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
+![Sketchup](https://img.shields.io/badge/-Sketchup-333333?style=flat&logo=sketchup)
+
+👾 ETHICAL HACKING<br>
+![Badges](https://img.shields.io/badge/Kali_Linux-333333?style=flat&logo=kali-linux)
+![Badges](https://img.shields.io/badge/burpsuite-333333?style=flat&logo=data:https://cdn4.iconfinder.com/data/icons/macaron-1/48/BurpSuite-512.png)
+![Badges](https://img.shields.io/badge/medusa-333333?style=flat&logo=medusa)
+![Badges](https://img.shields.io/badge/sqlmap-333333?style=flat&logo=sqlmap)
+![Badges](https://img.shields.io/badge/nmap-333333?style=flat&logo=nmap)
+![Badges](https://img.shields.io/badge/zenmap-333333?style=flat&logo=zenmap)
+
+🧰 FRAMEWORKS<br>
+![Badges](https://img.shields.io/badge/ASP.NET-333333?style=flat&logo=DOTNET)
+![Badges](https://img.shields.io/badge/Django-333333?style=flat&logo=Django)
+![Badges](https://img.shields.io/badge/Xamarin-333333?style=flat&logo=xamarin)
+
+🎮 GAME ENGINES <br>
+![Badges](https://img.shields.io/badge/Unity-333333?style=flat&logo=unity)
+
+📚 LIBRARY OF PROGRAMMING FUNCTIONS<br>
+![Badges](https://img.shields.io/badge/OpenCV-333333?style=flat&logo=Opencv)
+![Badges](https://img.shields.io/badge/NumPY-333333?style=flat&logo=NumPY)
+![Badges](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=TensorFlow)
 
 🧮 PROGRAMMING LANGUAGES<br>
 ![Badges](https://img.shields.io/badge/Assembly-333333?style=flat&logo=assembly)
@@ -36,43 +56,23 @@ Since I began studying computer science I've become fascinated with the concept 
 ![Badges](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
 ![Badges](https://img.shields.io/badge/Swift-333333?style=flat&logo=swift)
 
-🧰 FRAMEWORKS<br>
-![Badges](https://img.shields.io/badge/ASP.NET-333333?style=flat&logo=DOTNET)
-![Badges](https://img.shields.io/badge/Django-333333?style=flat&logo=Django)
-![Badges](https://img.shields.io/badge/Xamarin-333333?style=flat&logo=xamarin)
-
-📚 LIBRARY OF PROGRAMMING FUNCTIONS<br>
-![Badges](https://img.shields.io/badge/OpenCV-333333?style=flat&logo=Opencv)
-![Badges](https://img.shields.io/badge/NumPY-333333?style=flat&logo=NumPY)
-![Badges](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=TensorFlow)
-
-☁️ CLOUDS <br>
-![Badges](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws)
-![Badges](https://img.shields.io/badge/Microsoft_Azure-333333?style=flat&logo=microsoft-azure)
-
 🖥 SERVERS <br>
 ![Badges](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
 ![Badges](https://img.shields.io/badge/Red%20Hat-333333?style=flat&logo=redhat)
 ![Badges](https://img.shields.io/badge/Windows_Server-333333?style=flat&logo=windows)
+
+🛠 IDES <br>
+![Eclipse](https://img.shields.io/badge/-Dev_C++-333333?style=flat&logo=cplusplus)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+![XCode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode)
 
 🌐 IOT<br>
 ![Sketchup](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
 ![Sketchup](https://img.shields.io/badge/-Raspberry_Pi-333333?style=flat&logo=raspberry-pi)
 ![Sketchup](https://img.shields.io/badge/-Amazon_Alexa-333333?style=flat&logo=amazon-alexa)
 ![Sketchup](https://img.shields.io/badge/-Google_Home-333333?style=flat&logo=google)
-
-👾 ETHICAL HACKING<br>
-![Badges](https://img.shields.io/badge/Kali_Linux-333333?style=flat&logo=kali-linux)
-![Badges](https://img.shields.io/badge/burpsuite-333333?style=flat&logo=data:https://cdn4.iconfinder.com/data/icons/macaron-1/48/BurpSuite-512.png)
-![Badges](https://img.shields.io/badge/medusa-333333?style=flat&logo=medusa)
-![Badges](https://img.shields.io/badge/sqlmap-333333?style=flat&logo=sqlmap)
-![Badges](https://img.shields.io/badge/nmap-333333?style=flat&logo=nmap)
-![Badges](https://img.shields.io/badge/zenmap-333333?style=flat&logo=zenmap)
-
-🎨 DESIGN <br>
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
-![Sketchup](https://img.shields.io/badge/-Sketchup-333333?style=flat&logo=sketchup)
 
 # 🎯 NON-IT SKILLS
 
