@@ -58,6 +58,7 @@ Since I began studying computer science I've become fascinated with the concept 
 ![Badges](https://img.shields.io/badge/Swift-333333?style=flat&logo=swift)
 
 🖥 SERVERS <br>
+![Badges](https://img.shields.io/badge/CentOS-333333?style=flat&logo=centos)
 ![Badges](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
 ![Badges](https://img.shields.io/badge/Red%20Hat-333333?style=flat&logo=redhat)
 ![Badges](https://img.shields.io/badge/Windows_Server-333333?style=flat&logo=windows)
