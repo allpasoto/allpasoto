@@ -37,6 +37,7 @@ Since I began studying computer science I've become fascinated with the concept 
 🧰 FRAMEWORKS<br>
 ![Badges](https://img.shields.io/badge/ASP.NET-333333?style=flat&logo=DOTNET)
 ![Badges](https://img.shields.io/badge/Django-333333?style=flat&logo=Django)
+![Badges](https://img.shields.io/badge/Flutter-333333?style=flat&logo=Flutter)
 ![Badges](https://img.shields.io/badge/Xamarin-333333?style=flat&logo=xamarin)
 
 🎮 GAME ENGINES <br>
@@ -52,6 +53,7 @@ Since I began studying computer science I've become fascinated with the concept 
 ![Badges](https://img.shields.io/badge/C-333333?style=flat&logo=c)
 ![Badges](https://img.shields.io/badge/C++-333333?style=flat&logo=cplusplus)
 ![Badges](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp)
+![Badges](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart)
 ![Sketchup](https://img.shields.io/badge/Ladder-333333?style=flat&logo=ladder)
 ![Badges](https://img.shields.io/badge/Lua-333333?style=flat&logo=lua)
 ![Badges](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
