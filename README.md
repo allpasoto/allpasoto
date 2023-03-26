@@ -93,8 +93,6 @@ Since I began studying computer science I've become fascinated with the concept 
 ![GitHub forks](https://img.shields.io/github/forks/allpasoto/allpasoto?style=flat)
 
 💎 ADM - Senior Infrastructure Analyst.<br>
-💎 ATT - IT Consultancy & Services<br>
-💎 CASARSHOP - Solutions for weddings.<br>
 💎 IMAGINESEC - Solutions for parking, tolling, security and safe city.<br>
 💎 PRODESERV - Online marketplace for freelance services. <br>
 💎 PROJETO#1 - MMORPG.<br>
